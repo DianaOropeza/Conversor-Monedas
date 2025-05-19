@@ -11,7 +11,7 @@ Este proyecto es un Conversor de Monedas desarrollado en Java que te permite con
 
 1. Clona este repositorio en tu máquina local.
 2. Abre el proyecto en IntelliJ IDEA u otro IDE de tu elección.
-3. Ejecuta la clase Principal.java para iniciar el programa.
+3. Ejecuta la clase PrincipalConver.java para iniciar el programa.
 4. Sigue las instrucciones en pantalla para realizar conversiones de moneda.
 
 ¡Disfruta convirtiendo monedas!
